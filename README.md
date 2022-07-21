@@ -1,4 +1,5 @@
-요즘 유행하는 MBTI테스트 사이트를 간단히 만들어봤습니다.
+#MBTI기반 테스트
+요즘 유행하는 MBTI테스트 사이트를 간단히 만들어봤습니다.  
 자료는 직접 넣은것으로 정확도는 떨어지는 점 참고 바랍니다.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
